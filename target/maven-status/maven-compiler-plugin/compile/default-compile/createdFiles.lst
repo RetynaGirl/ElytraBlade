@@ -1,0 +1,3 @@
+com\teknoserval\elytrablade\ElytraBlade.class
+com\teknoserval\elytrablade\handlers\ConfigHandler.class
+com\teknoserval\elytrablade\listeners\EventListener.class

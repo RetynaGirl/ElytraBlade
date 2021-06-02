@@ -1,0 +1,8 @@
+main: com.teknoserval.elytrablade.ElytraBlade
+name: ElytraBlade
+version: 1.0.0
+author: TeknoServal
+commands: 
+  elytrablade: 
+    description: Acquire an info book about ElytraBlade
+    usage: /elytrablade info
